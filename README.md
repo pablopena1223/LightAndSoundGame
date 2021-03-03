@@ -4,7 +4,7 @@
 
 Submitted by: **Pablo Pena**
 
-Time spent: **4** hours spent in total
+Time spent: **%** hours spent in total
 
 ## Required Functionality
 
