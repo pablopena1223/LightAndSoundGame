@@ -37,6 +37,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 Start and Stop button switch, game stops if wrong input or stop button is pressed:
 
 ![](https://i.imgur.com/YYhqx08.gif)
