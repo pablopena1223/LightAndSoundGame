@@ -40,7 +40,7 @@ Here's a walkthrough of implemented user stories:
 
 Full walkthrough of game working (speed up is implemented as well): 
 
-![](https://i.imgur.com/ftAQ5vq.gif)
+https://i.imgur.com/ftAQ5vq.gif
 
 Random Pattern, images, and strikes:
 
