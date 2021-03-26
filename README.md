@@ -4,7 +4,7 @@
 
 Submitted by: **Pablo Pena**
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Functionality
 
@@ -20,13 +20,13 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
-* [ ] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
-* [ ] Player only loses after 3 mistakes (instead of on the first mistake)
-* [ ] Game button appearance change goes beyond color (e.g. add an image)
+* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [x] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [x] More than 4 functional game buttons
+* [x] Playback speeds up on each turn
+* [x] Computer picks a different pattern each time the game is played
+* [x] Player only loses after 3 mistakes (instead of on the first mistake)
+* [x] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
@@ -38,13 +38,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+Full walkthrough of game working (speed up is implemented as well): 
+
+![](https://i.imgur.com/ftAQ5vq.gif)
+
+Random Pattern, images, and strikes:
+
+![](https://i.imgur.com/p8BPfnH.gif)
+
 Start and Stop button switch, game stops if wrong input or stop button is pressed:
 
 ![](https://i.imgur.com/YYhqx08.gif)
-
-Full walkthrough of game working: 
-
-![](https://i.imgur.com/LCkq0Vn.gif)
 
 
 ## Reflection Questions

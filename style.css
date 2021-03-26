@@ -2,8 +2,8 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
-  background-color: slategrey;
-  color: white;
+  background-color: #ccd0dc;
+  color: #5a5c62;
 }
 
 h1 {
@@ -21,6 +21,9 @@ button {
   width: 200px;
   height: 200px;
   margin: 2px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
 }
 
 /*hide the end button */
@@ -30,29 +33,43 @@ button {
 
 /*:active shows the color once button is clicked */
 #button1 {
-  background: lightgreen;
+  background-color: #d42f2f;
 }
 #button1:active, #button1.lit {
-  background: green;
+  background-image: url("https://cdn.glitch.com/dd9579bd-4f5a-4b8e-b37e-16a1e33f411f%2FJiraiya.png?v=1616726666177");
 }
 
 #button2 {
-  background: lightblue;
+  background: #ffffb2;
 }
 #button2:active, #button2.lit {
-  background: blue;
+  background-image: url("https://cdn.glitch.com/dd9579bd-4f5a-4b8e-b37e-16a1e33f411f%2FTsunade.png?v=1616727769551");
 }
 
 #button3 {
-  background: pink;
+  background: #993299;
 }
 #button3:active, #button3.lit {
-  background: red;
+  background-image: url("https://cdn.glitch.com/dd9579bd-4f5a-4b8e-b37e-16a1e33f411f%2FOrochimaru.png?v=1616726836608");
 }
 
 #button4 {
-  background: lightyellow;
+  background: #FF8C00;
 }
 #button4:active, #button4.lit {
-  background: yellow;
+  background-image: url("https://cdn.glitch.com/dd9579bd-4f5a-4b8e-b37e-16a1e33f411f%2FNaruto.png?v=1616729516473");
+}
+
+#button5 {
+  background: #ffa7b6;
+}
+#button5:active, #button5.lit {
+  background-image: url("https://cdn.glitch.com/dd9579bd-4f5a-4b8e-b37e-16a1e33f411f%2FSakura2.png?v=1616729732509");
+}
+
+#button6 {
+  background: #1919ff;
+}
+#button6:active, #button6.lit {
+  background-image: url("https://cdn.glitch.com/dd9579bd-4f5a-4b8e-b37e-16a1e33f411f%2FSasuke.png?v=1616729983093");
 }
